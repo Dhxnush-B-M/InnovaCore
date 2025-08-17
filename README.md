@@ -1,10 +1,15 @@
 # InnovaCore
 
 Dhanush B M
+------------------------------------------------------------------------------------------------------------
 B.Tech in Computer Science & Engineering
-AI intern| Hands-on with python , sql , html & AI tools | focused on applied AI development 
+AI intern| Hands-on with python , sql , html & AI tools | focused on applied AI development
 
- Professional Summary
+📧 Contact Information
+📱 +91 7795334087
+📍 mysore, Karnataka, India
+
+📌Professional Summary
 
 Motivated and detail-oriented Computer Science and Engineering student with hands-on experience in web development, AI tools, and open-source contributions. Skilled in leveraging technology for problem-solving, building impactful projects, and leading initiatives in both academic and community settings.
 
